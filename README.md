@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧑🏼‍💻 Software Intern at DLT Apps<br>📚 I'm currently learning Golang<br>🚀 Building Aspire Dev.</p>
+<p align="left">🧑🏼‍💻 Software Intern at DLT Apps<br>📚 I'm currently learning AI/ML<br>🚀 Building Aspire Dev.</p>
 
 ###
 
