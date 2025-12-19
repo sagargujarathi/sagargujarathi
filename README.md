@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
-- 👨‍💻 All of my projects are available at [https://sagargujarathi.aspiredev.in/](https://sagargujarathi.aspiredev.in/)
+- 👨‍💻 All of my projects are available at [https://sagargujarathi.dev/](https://sagargujarathi.dev/)
 
 - 💬 Ask me about **anything**
 
