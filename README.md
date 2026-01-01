@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sagargujarathi9" target="blank"><img src="https://img.shields.io/twitter/follow/sagargujarathi9?logo=twitter&style=for-the-badge" alt="sagargujarathi9" /></a> </p>
 
-- 🔭 I’m currently working on [AspireDev](https://aspiredev.in/)
+- 🔭 I’m currently working on [Lyzn.ai](https://www.lyzn.ai/)
 
 - 🌱 I’m currently learning **AI, and Rust**
 
