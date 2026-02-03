@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Gujarathi</h1>
 <h3 align="center">I'm a software developer focused on building practical, efficient solutions using modern technologies, Open to collaboration on interesting projects.</h3>
 
-![Docker Activity](https://api.dockerheatmap.dev/api/heatmap/sagargujarathi.svg?theme=github&days=365&cell_size=11&radius=2)
+[![Docker Activity](https://api.dockerheatmap.dev/api/heatmap/sagargujarathi.svg?theme=github&days=365&cell_size=11&radius=2)](https://api.dockerheatmap.dev/api/heatmap/sagargujarathi.svg?theme=github&days=365&cell_size=11&radius=2&t=1770136537539)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagargujarathi&label=Profile%20views&color=0e75b6&style=flat" alt="sagargujarathi" /> </p>
 
