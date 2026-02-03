@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sagar Gujarathi</h1>
 <h3 align="center">I'm a software developer focused on building practical, efficient solutions using modern technologies, Open to collaboration on interesting projects.</h3>
 
+![Docker Activity](https://api.dockerheatmap.dev/api/heatmap/sagargujarathi.svg?theme=github&days=365&cell_size=11&radius=2)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagargujarathi&label=Profile%20views&color=0e75b6&style=flat" alt="sagargujarathi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sagargujarathi9" target="blank"><img src="https://img.shields.io/twitter/follow/sagargujarathi9?logo=twitter&style=for-the-badge" alt="sagargujarathi9" /></a> </p>
