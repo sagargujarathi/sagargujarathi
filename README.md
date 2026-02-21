@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [Lyzn.ai](https://www.lyzn.ai/)
 
+![Docker Activity](https://api.dockerheatmap.dev/api/heatmap/sagargujarathi.svg?theme=github&days=365&cell_size=11&radius=2&t=1771665472483)
+
 - 🌱 I’m currently learning **AI, and Rust**
 
 - 👯 I’m looking to collaborate on **interesting projects**
