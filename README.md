@@ -1,27 +1,22 @@
-<h1 align="center">Hi 👋, I'm Sagar Gujarathi</h1>
-<h3 align="center">I'm a software developer focused on building practical, efficient solutions using modern technologies, Open to collaboration on interesting projects.</h3>
+# Hi there, I'm Sagar. 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagargujarathi&label=Profile%20views&color=0e75b6&style=flat" alt="sagargujarathi" /> </p>
+I am a Software Engineer passionate about building high-performance backend systems, scalable web platforms, and core computer science infrastructure. Currently, I am a final-year Computer Science and Engineering student at Anurag University, graduating in 2026, and I am looking forward to starting my career as an Associate System Engineer at IBM.
 
-<p align="left"> <a href="https://twitter.com/sagargujarathi9" target="blank"><img src="https://img.shields.io/twitter/follow/sagargujarathi9?logo=twitter&style=for-the-badge" alt="sagargujarathi9" /></a> </p>
+On the side, I am building **AspireFit**, a production-grade fitness management platform powered by Go, Next.js, and PostgreSQL that handles member management, billing, and biometric attendance for multiple fitness centers. I also engineered **BitFight**, a real-time competitive multiplayer coding platform featuring a low-latency 1v1 matchmaking engine built with Go, WebSockets, and Redis. Additionally, I maintain **Docker Heatmap**, a secure platform with public APIs for visualizing Docker Hub registry activity.
 
-- 🔭 I’m currently working on [aspirefit.in](https://aspirefit.in)
+Previously, I interned at **Ananth Technologies**, where I developed a Python-based image analysis system integrating YOLO object detection for automated, high-resolution data processing. Before that, I worked as a Software Engineer Intern at **DLT Apps Limited**, where I built production fintech features using React and optimized state management workflows to reduce unnecessary re-renders and improve performance by 30%.
 
-- 🌱 I’m currently learning **AI, and Rust**
+Beyond traditional web infrastructure, I am deeply interested in space technology and aerospace engineering. I served as the Software Lead for Team Indus/Tejas in the IN-SPACE ISRO CanSat Championship and contributed to the winning team at the Pleiades 2025 Build-A-CanSAT Competition. My hardware and software integrations also extend into robotics, including building ESP32 firmware and React Native control modules for robotic arm challenges.
 
-- 👯 I’m looking to collaborate on **interesting projects**
+I keep diving deep into engineering details, continuously challenging myself on LeetCode—where I have solved 500+ problems focusing on advanced data structures, graph theory, and dynamic programming—and exploring the trade-offs behind distributed systems, Go, and Dockerized Linux infrastructure.
 
-- 👨‍💻 All of my projects are available at [https://sagargujarathi.dev/](https://sagargujarathi.dev/)
+---
 
-- 💬 Ask me about **anything**
+### 💻 Tech Stack
+* **Languages:** Go, Python, JavaScript/TypeScript, C++, SQL
+* **Backend:** Go (Fiber), Node.js, Express, FastAPI, REST APIs, Microservices, WebSockets, SSE
+* **Frontend:** React, Next.js, React Native, TailwindCSS, MUI
+* **Databases & DevOps:** PostgreSQL, Redis, Docker, Linux, Nginx, AWS, GCP, GitHub Actions
 
-- 📫 How to reach me **sagargujarathi108@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sagargujarathi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagargujarathi9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gujarathisagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gujarathisagar" height="30" width="40" /></a>
-<a href="https://discord.gg/GmSK5xx5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GmSK5xx5" height="30" width="40" /></a>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagargujarathi&show_icons=true&locale=en&layout=compact" alt="sagargujarathi" /></p>
+### 🔗 Connect with me
+[Portfolio](https://sagargujarathi.dev) | [LinkedIn](https://linkedin.com/in/sagargujarathi) | [LeetCode](https://leetcode.com/sagargujarathi)
