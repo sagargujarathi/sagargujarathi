@@ -1,6 +1,6 @@
 # Hi there, I'm Sagar. 👋
 
-I am a Software Engineer passionate about building high-performance backend systems, scalable web platforms, and core computer science infrastructure. Currently, I am a final-year Computer Science and Engineering student at Anurag University, graduating in 2026, and I am looking forward to starting my career as an Associate System Engineer at IBM.
+I am a Software Engineer passionate about building high-performance backend systems, scalable web platforms, and core computer science infrastructure. Currently, I am a final-year Computer Science and Engineering student at Anurag University, graduating in 2026, and I am looking forward to starting my career as an FullStack Cloud Application Developer at IBM.
 
 On the side, I am building **AspireFit**, a production-grade fitness management platform powered by Go, Next.js, and PostgreSQL that handles member management, billing, and biometric attendance for multiple fitness centers. I also engineered **BitFight**, a real-time competitive multiplayer coding platform featuring a low-latency 1v1 matchmaking engine built with Go, WebSockets, and Redis. Additionally, I maintain **Docker Heatmap**, a secure platform with public APIs for visualizing Docker Hub registry activity.
 
