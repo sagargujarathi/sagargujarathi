@@ -19,4 +19,7 @@ I keep diving deep into engineering details, continuously challenging myself on 
 * **Databases & DevOps:** PostgreSQL, Redis, MongoDB, Docker, Linux, Nginx, AWS, GitHub Actions
 
 ### 🔗 Connect with me
-[Portfolio](https://sagargujarathi.dev) | [LinkedIn](https://linkedin.com/in/sagargujarathi) | [LeetCode](https://leetcode.com/sagargujarathi)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sagargujarathi.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sagargujarathi.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar%20Gujarathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagargujarathi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sagargujarathi)
